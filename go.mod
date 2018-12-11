@@ -3,8 +3,8 @@ module github.com/grpc-ecosystem/go-grpc-middleware
 require (
 	cloud.google.com/go v0.16.0
 	github.com/davecgh/go-spew v1.1.0
-	github.com/gogo/protobuf v0.0.0-20171007142547-342cbe0a0415
-	github.com/golang/protobuf v0.0.0-20171113180720-1e59b77b52bf
+	github.com/gogo/protobuf v1.2.0
+	github.com/golang/protobuf v1.2.0
 	github.com/opentracing/opentracing-go v1.0.2
 	github.com/pmezard/go-difflib v1.0.0
 	github.com/sirupsen/logrus v1.0.3
